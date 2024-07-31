@@ -244,3 +244,4 @@ C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.API\obj\Debug\net8.0\ProductStore.API.pdb
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.API\obj\Debug\net8.0\ProductStore.API.genruntimeconfig.cache
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.API\obj\Debug\net8.0\ref\ProductStore.API.dll
+C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.API\obj\Debug\net8.0\ProductStore.API.sourcelink.json

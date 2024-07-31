@@ -26,3 +26,4 @@ C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.Core\obj\Debug\net8.0\ProductStore.Core.pdb
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.Core\obj\Debug\net8.0\ProductStore.Core.genruntimeconfig.cache
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.Core\obj\Debug\net8.0\ref\ProductStore.Core.dll
+C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.Core\obj\Debug\net8.0\ProductStore.Core.sourcelink.json

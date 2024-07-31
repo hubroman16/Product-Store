@@ -32,3 +32,4 @@ C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.DataAccess\obj\Debug\net8.0\ProductStore.DataAccess.pdb
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.DataAccess\obj\Debug\net8.0\ProductStore.DataAccess.genruntimeconfig.cache
 C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.DataAccess\obj\Debug\net8.0\ref\ProductStore.DataAccess.dll
+C:\Users\roman\Documents\моя визитка\csharp\ProductStore\ProductStore.API\ProductStore.DataAccess\obj\Debug\net8.0\ProductStore.DataAccess.sourcelink.json
